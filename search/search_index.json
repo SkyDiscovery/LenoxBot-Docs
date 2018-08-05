@@ -52,12 +52,12 @@
         }, 
         {
             "location": "/General FAQ/Donate/Donate/", 
-            "text": "Donate now!\n\n\nClick on the \nDonate\n button in the navigation bar on top of \nour website\n.\n\n\n\n\nIn the next step, you need the amount that you want to pay!\n\n\n\n\nYou decide if you want to donate once or monthly.\n\n\nThen you click on the \"Continue\" button.\n\n\nYou fill out the contact informations.\n\n\nYou click on the \"Continue\" button again.\n\n\nThen you fill out the donation informations and click on the \"Donate\" button.", 
+            "text": "Donate now!\n\n\nClick on the \nDonate\n button in the navigation bar on top of \nour website\n.\n\n\n\n\n\n\nYou choose the amount you want to pay.\n\n\nYou decide if you want to donate once or monthly.\n\n\nThen you click on the \"Continue\" button.\n\n\nYou fill out the contact informations.\n\n\nYou click on the \"Continue\" button again.\n\n\nThen you fill out the donation informations and click on the \"Donate\" button.", 
             "title": "Donate"
         }, 
         {
             "location": "/General FAQ/Donate/Donate/#donate-now", 
-            "text": "Click on the  Donate  button in the navigation bar on top of  our website .   In the next step, you need the amount that you want to pay!   You decide if you want to donate once or monthly.  Then you click on the \"Continue\" button.  You fill out the contact informations.  You click on the \"Continue\" button again.  Then you fill out the donation informations and click on the \"Donate\" button.", 
+            "text": "Click on the  Donate  button in the navigation bar on top of  our website .    You choose the amount you want to pay.  You decide if you want to donate once or monthly.  Then you click on the \"Continue\" button.  You fill out the contact informations.  You click on the \"Continue\" button again.  Then you fill out the donation informations and click on the \"Donate\" button.", 
             "title": "Donate now!"
         }, 
         {
@@ -132,32 +132,32 @@
         }, 
         {
             "location": "/General FAQ/Team/Designer/", 
-            "text": "How to become a Designer of LenoxBot?", 
+            "text": "How to become a Designer of LenoxBot?\n\n\nYou want to be a \nDesigner\n? Contanct Monkeyyy11#0001 via Discord or \n@Monkeyyy11_ via Twitter", 
             "title": "Designer"
         }, 
         {
             "location": "/General FAQ/Team/Designer/#how-to-become-a-designer-of-lenoxbot", 
-            "text": "", 
+            "text": "You want to be a  Designer ? Contanct Monkeyyy11#0001 via Discord or  @Monkeyyy11_ via Twitter", 
             "title": "How to become a Designer of LenoxBot?"
         }, 
         {
             "location": "/General FAQ/Team/Documentation-Moderator/", 
-            "text": "How to become a Documentation-Moderator of LenoxBot?\n\n\nYou want to be a \nDocumentation-Moderator\n? You can apply here: \nApply", 
+            "text": "How to become a Documentation-Moderator of LenoxBot?\n\n\nIf you want to be a Documentation-Moderator, do the following steps:\n\n\n\n\nYou click on the button: \nApply\n\n\nYou fill out all answers correctly and truthfully and click on the \"SEND\" button.\n\n\nThen you wait for Monkeyyy11#0001, Dadi#7808 or Nickkel#6515 to send you a direct message on Discord (if you're accepted).", 
             "title": "Documentation-Moderator"
         }, 
         {
             "location": "/General FAQ/Team/Documentation-Moderator/#how-to-become-a-documentation-moderator-of-lenoxbot", 
-            "text": "You want to be a  Documentation-Moderator ? You can apply here:  Apply", 
+            "text": "If you want to be a Documentation-Moderator, do the following steps:   You click on the button:  Apply  You fill out all answers correctly and truthfully and click on the \"SEND\" button.  Then you wait for Monkeyyy11#0001, Dadi#7808 or Nickkel#6515 to send you a direct message on Discord (if you're accepted).", 
             "title": "How to become a Documentation-Moderator of LenoxBot?"
         }, 
         {
             "location": "/General FAQ/Team/Moderator/", 
-            "text": "How to become a moderator of LenoxBot?", 
+            "text": "How to become a moderator of LenoxBot?\n\n\nYou want to be a \nmoderator\n? You can apply here: \nApply", 
             "title": "Moderator"
         }, 
         {
             "location": "/General FAQ/Team/Moderator/#how-to-become-a-moderator-of-lenoxbot", 
-            "text": "", 
+            "text": "You want to be a  moderator ? You can apply here:  Apply", 
             "title": "How to become a moderator of LenoxBot?"
         }, 
         {
@@ -312,12 +312,12 @@
         }, 
         {
             "location": "/Tutorials/Set up the application module/", 
-            "text": "Set up application module\n\n\nHow to set up the application module", 
+            "text": "Set up application module\n\n\nHere\u2019s how to configure the Application-System:\n\n\nFirst, we want to explain you all the commands in detail. Just enter \n\u201c?cmds application\u201d\n\n\n\n\n?addentry\n: With this Command, you can add specific questions which you want to ask the applicant. \nAn example for this would be:\n\n \n?addentry\n What's your name?\n\n \n?addentry\n How old are you?\n* \n?addentry\n Why should we accept you?\n\n\n\n\n?application\n: With this Command, all Discord users can apply (It doesn't matter in which channel, expect you've add the command to a blacklisted channel).\n\n\n\n\n?applicationnotification\n: With this Command, you can define a channel, in which the Notifications for new Applications are posted. You can also cancel the channel with this command.\n\n\n\n\n?applicationsettings\n: With this Command, you can see all settings you\u2019ve made.\n\n\n\n\n?approverole\n: With this Command, you can set the role that the accepted applicants will get  (also at Dashboard). \nAn example for this would be:\n* \n?approverole\n Friend\n\n\n\n\n?deleteentry\n: With this Command, you can delete Entries, which you have addeded.\n\n\n\n\n?denyrole\n: With this Command, you can set the role, that denied apllicants will get (also at Dashboard). \nAn example for this would be:\n* \n?denyrole\n Test\n\n\n\n\n?listentry\n: With this Command, you can see all Entries, you\u2019ve addeded.\n\n\n![Image Listentry]https://i.imgur.com/4tnufYL.png)\n\n\n?reactionnumber\n: With this Command, you can define the number of Reactions, which are required to accdept or reject the application (also at Dashboard). \nAn example for this would be:\n* \n?reactionnumber\n 5\n\n\n\n\n?setacceptedmessage\n: With this Command, you can set a Message, which accepted Applicants will get (also at Dashboard).\n\n\n\n\n?setrejectedmessage\n:  With this Command, you can set a Message, which rejected Applicants will get (also at Dashboard).\n\n\n\n\n?toggleapplication\n: With this Command, you can toggle the Applications On/Off (also at Dashboard).\n\n\n\n\nHow can you apply now and how does the process take place?\n\nIf you have set up everything on the Discord server (or Dashboard), there won't be anything in your way! The user can use the commmand ?application in a channel in which he has the permissions to write and a new application form will be created. After that, he will be asked every question one by one and has to answer to them. Otherwise, his application won't be sent. Then, the questions and answers can be shown at the website, the Link to the Application is in the Notification Chanel. There the application have two Buttons; with the first one, the application can be accepted and with the second one it can be denied. In case of an accepted application, the user will get the the role that was already defined before.\n\n\nThat\u2019s it, now go and change the world with your Applications.", 
             "title": "Set up the application module"
         }, 
         {
             "location": "/Tutorials/Set up the application module/#set-up-application-module", 
-            "text": "How to set up the application module", 
+            "text": "Here\u2019s how to configure the Application-System:  First, we want to explain you all the commands in detail. Just enter  \u201c?cmds application\u201d   ?addentry : With this Command, you can add specific questions which you want to ask the applicant. \nAn example for this would be:   ?addentry  What's your name?   ?addentry  How old are you?\n*  ?addentry  Why should we accept you?   ?application : With this Command, all Discord users can apply (It doesn't matter in which channel, expect you've add the command to a blacklisted channel).   ?applicationnotification : With this Command, you can define a channel, in which the Notifications for new Applications are posted. You can also cancel the channel with this command.   ?applicationsettings : With this Command, you can see all settings you\u2019ve made.   ?approverole : With this Command, you can set the role that the accepted applicants will get  (also at Dashboard). \nAn example for this would be:\n*  ?approverole  Friend   ?deleteentry : With this Command, you can delete Entries, which you have addeded.   ?denyrole : With this Command, you can set the role, that denied apllicants will get (also at Dashboard). \nAn example for this would be:\n*  ?denyrole  Test   ?listentry : With this Command, you can see all Entries, you\u2019ve addeded.  ![Image Listentry]https://i.imgur.com/4tnufYL.png)  ?reactionnumber : With this Command, you can define the number of Reactions, which are required to accdept or reject the application (also at Dashboard). \nAn example for this would be:\n*  ?reactionnumber  5   ?setacceptedmessage : With this Command, you can set a Message, which accepted Applicants will get (also at Dashboard).   ?setrejectedmessage :  With this Command, you can set a Message, which rejected Applicants will get (also at Dashboard).   ?toggleapplication : With this Command, you can toggle the Applications On/Off (also at Dashboard).   How can you apply now and how does the process take place? \nIf you have set up everything on the Discord server (or Dashboard), there won't be anything in your way! The user can use the commmand ?application in a channel in which he has the permissions to write and a new application form will be created. After that, he will be asked every question one by one and has to answer to them. Otherwise, his application won't be sent. Then, the questions and answers can be shown at the website, the Link to the Application is in the Notification Chanel. There the application have two Buttons; with the first one, the application can be accepted and with the second one it can be denied. In case of an accepted application, the user will get the the role that was already defined before.  That\u2019s it, now go and change the world with your Applications.", 
             "title": "Set up application module"
         }
     ]
