@@ -10,10 +10,10 @@
       <meta name="viewport" content="width=device-width,initial-scale=1">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       
-        <meta name="description" content="If you want to send an embed, here you can find how you send an embed">
+        <meta name="description" content="A tutorial, how to set up the mute command correctly">
       
       
-        <link rel="canonical" href="https://lenoxbot.com/Tutorials/Send an embed/">
+        <link rel="canonical" href="https://lenoxbot.com/Tutorials/How to set-up the mute-command/">
       
       
         <meta name="author" content="LenoxBot">
@@ -42,7 +42,7 @@
     
     
       
-        <title>Send an embed</title>
+        <title>Set up the mute Command</title>
       
     
     
@@ -104,7 +104,7 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
-      <a href="#how-to-send-an-embed" tabindex="1" class="md-skip">
+      <a href="#set-up-the-mute-command" tabindex="1" class="md-skip">
         Skip to content
       </a>
     
@@ -130,7 +130,7 @@
                 LenoxBot Documentation
               </span>
               <span class="md-header-nav__topic">
-                Send an embed
+                Set up the mute Command
               </span>
             
           
@@ -758,11 +758,20 @@
           
           
 
+  
 
-  <li class="md-nav__item">
-    <a href="../How%20to%20set-up%20the%20mute-command/" title="Set up the mute Command" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+    <a href="./" title="Set up the mute Command" class="md-nav__link md-nav__link--active">
       Set up the mute Command
     </a>
+    
   </li>
 
         
@@ -782,20 +791,11 @@
           
           
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active">
-    
-    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-    
-      
-    
-    
-    <a href="./" title="Send an embed" class="md-nav__link md-nav__link--active">
+  <li class="md-nav__item">
+    <a href="../Send%20an%20embed/" title="Send an embed" class="md-nav__link">
       Send an embed
     </a>
-    
   </li>
 
         
@@ -843,14 +843,22 @@
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/LenoxBot/LenoxBot-Docs/edit/master/docs/Tutorials/Send an embed.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
+                  <a href="https://github.com/LenoxBot/LenoxBot-Docs/edit/master/docs/Tutorials/How to set-up the mute-command.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
-                <h1 id="how-to-send-an-embed">How to send an embed?<a class="headerlink" href="#how-to-send-an-embed" title="Permanent link">&para;</a></h1>
-<p>If you want to send an embed, do the following steps:
-<em> Type <code>?embed  {text}</code> in the chat.
-</em> You can change <code>{text}</code> to any other text and you don't have to write the "{}".
-* And after you've done that, the LenoxBot sends your text again.</p>
+                <h1 id="set-up-the-mute-command">Set up the <code>?mute</code> command<a class="headerlink" href="#set-up-the-mute-command" title="Permanent link">&para;</a></h1>
+<p>In this tutorial I'll show you, how to set up the <code>?mute</code> command, that it works correctly.</p>
+<p>It's really easy, so <strong>lets go</strong>. :D</p>
+<p>First, you have to create a new role, or use a role that exists already.
+The role <strong>shouldn't</strong> have the following permissions:</p>
+<p><img alt="Image Permisson" src="https://i.imgur.com/Nr0TfQk.png" /></p>
+<p>Also, the position of the role <strong>should</strong> be <strong>over</strong> the roles, that should be able to mute, so the "Mute" role can overwrite the text-permissions of the roles, which position is under the "Mute" role.</p>
+<p><img alt="Image Role-Postition" src="https://i.imgur.com/yBvWJ5N.png" /></p>
+<p>Now, you can define the "Mute" role for the bot with <code>?muterole</code> <em>rolename</em></p>
+<p><img alt="Image Muterole" src="https://i.imgur.com/dJ0wFZS.png" /></p>
+<p><strong>That's it.</strong> Now you can use <code>?mute</code> <em>@User time{d, h, m, s} {reason}</em></p>
+<p><img alt="Image Mute" src="https://i.imgur.com/mHJdqrR.png" /></p>
+<p><em>And now:</em> Take away the troublemakers. :)</p>
                 
                   
                 
@@ -871,7 +879,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid">
         
-          <a href="../Invite%20LenoxBot/" title="Invite LenoxBot" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../../Modules/Utility/" title="Utility" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-flex__cell md-flex__cell--shrink">
               <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
@@ -880,19 +888,19 @@
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Invite LenoxBot
+                Utility
               </span>
             </div>
           </a>
         
         
-          <a href="../Set%20up%20the%20application%20module/" title="Set up the application module" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../Invite%20LenoxBot/" title="Invite LenoxBot" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
               <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
                   Next
                 </span>
-                Set up the application module
+                Invite LenoxBot
               </span>
             </div>
             <div class="md-flex__cell md-flex__cell--shrink">
