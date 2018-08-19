@@ -52,13 +52,28 @@
         }, 
         {
             "location": "/General FAQ/Donate/Donate/", 
-            "text": "Donate now!\n\n\nClick on the \nDonate\n button in the navigation bar on top of \nour website\n.\n\n\n\n\n\n\nYou choose the amount you want to pay.\n\n\nYou decide if you want to donate once or monthly.\n\n\nThen you click on the \"Continue\" button.\n\n\nYou fill out the contact informations.\n\n\nYou click on the \"Continue\" button again.\n\n\nThen you fill out the donation informations and click on the \"Donate\" button.", 
+            "text": "Donate now!\n\n\nClick on the \nDonate\n button in the navigation bar on top of \nour website\n.\n\n\n\n\nNow you have to decide how much you want to donate to LenoxBot. You also have the opportunity to specify an amount determined by you!\n\n\n\n\nBelow you have the possibility to donate once or monthly:\n\n\n\n\nNow you click on \"\nContinue\n\"!\n\n\nThen you have to enter the requested information. Your first name, last name and email address will be asked. Then you have to specify your Discord tag that you can find in the Discord application. Your UserID get if you on any Discord server a message and then right click on your username and copy your UserID (Here's a tutorial: \nWhere can I find my User/Server/Message ID? - Discord\n)\n\n\n\n\nAfter entering your information and checking it again, click on \"\nContinue\n\" again!\n\n\nNow you have the option to pay by credit card or PayPal.\n\n\nHow do I pay with the credit card?\n\n\nPlease provide all the information you need:\n\n\n!CreditCard\n\n\nIf you are finished, you can click on the green button below.\nIf your payment has been successful you will be redirected to the LenoxBot site!\n\n\nHow do I pay with PayPal?\n\n\nYou click on the green button below to be redirected to Paypal:\n\n\n!PayPal\n\n\nLastly, you must log in and pay with your PayPal account details!\nIf your payment has been successful you will be redirected to the LenoxBot site!\n\n\nThank you for every single donation! \n3", 
             "title": "Donate"
         }, 
         {
             "location": "/General FAQ/Donate/Donate/#donate-now", 
-            "text": "Click on the  Donate  button in the navigation bar on top of  our website .    You choose the amount you want to pay.  You decide if you want to donate once or monthly.  Then you click on the \"Continue\" button.  You fill out the contact informations.  You click on the \"Continue\" button again.  Then you fill out the donation informations and click on the \"Donate\" button.", 
+            "text": "Click on the  Donate  button in the navigation bar on top of  our website .   Now you have to decide how much you want to donate to LenoxBot. You also have the opportunity to specify an amount determined by you!   Below you have the possibility to donate once or monthly:   Now you click on \" Continue \"!  Then you have to enter the requested information. Your first name, last name and email address will be asked. Then you have to specify your Discord tag that you can find in the Discord application. Your UserID get if you on any Discord server a message and then right click on your username and copy your UserID (Here's a tutorial:  Where can I find my User/Server/Message ID? - Discord )   After entering your information and checking it again, click on \" Continue \" again!  Now you have the option to pay by credit card or PayPal.", 
             "title": "Donate now!"
+        }, 
+        {
+            "location": "/General FAQ/Donate/Donate/#how-do-i-pay-with-the-credit-card", 
+            "text": "Please provide all the information you need:  !CreditCard  If you are finished, you can click on the green button below.\nIf your payment has been successful you will be redirected to the LenoxBot site!", 
+            "title": "How do I pay with the credit card?"
+        }, 
+        {
+            "location": "/General FAQ/Donate/Donate/#how-do-i-pay-with-paypal", 
+            "text": "You click on the green button below to be redirected to Paypal:  !PayPal  Lastly, you must log in and pay with your PayPal account details!\nIf your payment has been successful you will be redirected to the LenoxBot site!", 
+            "title": "How do I pay with PayPal?"
+        }, 
+        {
+            "location": "/General FAQ/Donate/Donate/#thank-you-for-every-single-donation-3", 
+            "text": "", 
+            "title": "Thank you for every single donation! &lt;3"
         }, 
         {
             "location": "/General FAQ/Help/Make a proposal/", 
